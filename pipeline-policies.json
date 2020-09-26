@@ -7,6 +7,6 @@
   "rules" : [ {
     "$class" : "EntirePipelineTimeoutRule",
     "maxTime" : 60,
-    "properties" : "30 Minutes"
+    "properties" : "60 Minutes"
   } ]
 } ]
